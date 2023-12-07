@@ -1,0 +1,247 @@
+.mini-projects{
+    width: 100vw;
+    background-color: #f5f5f5;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.project-one {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    width: 70vw;
+  }
+  
+  .project-one-left img {
+    margin-top: 25px;
+    width: 70%;
+    max-width: 200px;
+    object-fit: cover;
+    margin-left: 20px;
+  }
+  
+  .project-one-right {
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .project-one-right h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .project-one-right p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .project-one .links {
+    margin-top: 20px;
+  }
+  
+  .project-one .link {
+    display: inline-block;
+    background-color: rgb(76, 124, 175);
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .project-one .link:hover {
+    background-color: #063256;
+  }
+  
+  .project-one .links img {
+    width: 20px;
+    margin-right: 5px;
+  } 
+  
+
+
+  .project-two {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    width: 70vw;
+  }
+  
+  .project-two-left img {
+    margin-top: 60px;
+    width: 100%;
+    max-width: 200px;
+    object-fit: cover;
+    margin-left: 20px;
+  }
+  
+  .project-two-right {
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .project-two-right h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .project-two-right p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .project-two .links {
+    margin-top: 20px;
+  }
+  
+  .project-two .link {
+    display: inline-block;
+    background-color: rgb(76, 124, 175);
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .project-two .link:hover {
+    background-color: #063256;
+  }
+  
+  .project-two .links img {
+    width: 20px;
+    margin-right: 5px;
+  } 
+
+
+  .project-three {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    width: 70vw;
+  }
+  
+  .project-three-left img {
+    margin-top: 60px;
+    width: 100%;
+    max-width: 200px;
+    object-fit: cover;
+    margin-left: 20px;
+  }
+  
+  .project-three-right {
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .project-three-right h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .project-three-right p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .project-three .links {
+    margin-top: 20px;
+  }
+  
+  .project-three .link {
+    display: inline-block;
+    background-color: rgb(76, 124, 175);
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .project-three .link:hover {
+    background-color: #063256;
+  }
+  
+  .project-three .links img {
+    width: 20px;
+    margin-right: 5px;
+  } 
+
+
+
+  .project-four {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    width: 70vw;
+  }
+  
+  .project-four-left img {
+    margin-top: 60px;
+    width: 100%;
+    max-width: 200px;
+    object-fit: cover;
+    margin-left: 20px;
+  }
+  
+  .project-four-right {
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .project-four-right h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .project-three-right p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .project-four .links {
+    margin-top: 20px;
+  }
+  
+  .project-four .link {
+    display: inline-block;
+    background-color: rgb(76, 124, 175);
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .project-four .link:hover {
+    background-color: #063256;
+  }
+  
+  .project-four .links img {
+    width: 20px;
+    margin-right: 5px;
+  } 

@@ -1,0 +1,127 @@
+.websites {
+    height: 100vh;
+    width: 100vw;
+    background-color: #f5f5f5;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sage {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    width: 70vw;
+  }
+  
+  .sage-left img {
+    margin-top: 50px;
+    width: 100%;
+    max-width: 200px;
+    object-fit: cover;
+  }
+  
+  .sage-right {
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .sage-right h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .sage-right p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .links {
+    margin-top: 20px;
+  }
+  
+  .link {
+    display: inline-block;
+    background-color: rgb(76, 124, 175);
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .link:hover {
+    background-color: #063256;
+  }
+  
+  .links img {
+    width: 20px;
+    margin-right: 5px;
+  }
+  
+  
+
+
+   .cryptobuy {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    width: 70vw;
+  }
+  
+  .cryptobuy-left img {
+    margin-top: 50px;
+    width: 100%;
+    max-width: 200px;
+    object-fit: cover;
+  }
+  
+  .cryptobuy-right {
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .cryptobuy-right h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .cryptobuy-right p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .cryptobuy .links {
+    margin-top: 20px;
+  }
+  
+  .cryptobuy .link {
+    display: inline-block;
+    background-color: rgb(76, 124, 175);
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .cryptobuy .link:hover {
+    background-color: #063256;
+  }
+  
+  .cryptobuy .links img {
+    width: 20px;
+    margin-right: 5px;
+  } 

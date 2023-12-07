@@ -1,0 +1,56 @@
+.works {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.coding-container {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7); 
+    justify-content: space-evenly;
+    width: 40vw;
+    height: 15vh;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.coding-container img {
+    width: 50px;
+}
+.app-container {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7); 
+    justify-content: space-evenly;
+    width: 40vw;
+    height: 15vh;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.app-container img {
+    width: 50px;
+}
+.curve-container {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7); 
+    justify-content: space-evenly;
+    width: 40vw;
+    height: 15vh;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.curve-container img {
+    width: 50px;
+}

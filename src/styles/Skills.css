@@ -1,0 +1,37 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .skills p {
+    max-width: 800px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    color: #333;
+    line-height: 1.5;
+  }
+  
+  .skills-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .skills-links img {
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .skills-links img:hover {
+    transform: scale(1.2);
+  }
+  

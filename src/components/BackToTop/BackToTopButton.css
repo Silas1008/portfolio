@@ -1,0 +1,21 @@
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+    display: none;
+  }
+  
+  .back-to-top.visible {
+    display: block;
+  }
+  
+  .back-to-top span {
+    font-size: 20px;
+  }
+  
