@@ -24,7 +24,10 @@ const Works = () => {
 
       <div className='curve-container'>
       <img src={curve} alt=''/>
+      <Link to='/framer' style={{textDecoration: "none", color: "black"}}>
       <h1>Designs</h1>
+      </Link>
+     
       </div>
       </div>
     </div>

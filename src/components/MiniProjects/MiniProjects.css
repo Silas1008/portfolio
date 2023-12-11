@@ -185,6 +185,10 @@
     margin-right: 5px;
   } 
 
+  .project-three-left img{
+    width: 150px;
+  }
+
 
 
   .project-four {
@@ -203,6 +207,9 @@
     max-width: 200px;
     object-fit: cover;
     margin-left: 20px;
+  }
+  .project-four-left img{
+    width: 150px;
   }
   
   .project-four-right {
